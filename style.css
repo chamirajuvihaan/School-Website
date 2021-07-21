@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    background: black
+}
+
+h1 {
+    text-align: right;
+    color: cyan;
+    font-size: 20px;
+    margin-right: 30px;
+}
+
+hoglogwarts {
+    width: 2600px;
+    height: 1500px;
+}
+
+map {
+    width: 2100px;
+    height: 1500px;
+}
